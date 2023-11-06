@@ -2,7 +2,7 @@ import csv
 
 
 def get_csv_agg_stats(
-        filepath: str = "C:/Users/user\Downloads/Corp_Summary.csv",
+        filepath: str = "C:/Users/user/Downloads/Corp_Summary.csv",
         sep: str = ";",
         encoding: str = "utf-8",
         groupby_col: int = 0,
